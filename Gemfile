@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", ">= 220", group: :jekyll_plugins
 gem "yard"
 gem "yard-sorbet"
 
